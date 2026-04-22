@@ -19,3 +19,10 @@ This repository provides the complete numerical datasets and Python plotting cod
 All data are stored in NumPy .npz format and are organized figure-wise. For each figure, the corresponding datasets are saved separately (in some cases split into multiple parts for clarity)
 
 To reproduce the results, users simply need to load the provided .npz files using NumPy and run the associated Python scripts. The plotting codes use standard libraries such as NumPy and Matplotlib, with LaTeX rendering enabled for publication-quality figures. A working LaTeX installation is recommended for exact visual reproduction.
+
+## ▶️ How to Reproduce the Figures
+
+1. Clone the repository:
+```bash
+git clone <your-repository-link>
+cd <repository-name>
