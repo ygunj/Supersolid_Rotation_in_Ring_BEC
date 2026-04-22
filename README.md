@@ -1,6 +1,14 @@
 # Supersolid Rotation in an Annular Bose-Einstein Condensate coupled to a Ring Cavity
+
 This repository contains programs to show the Supersolid phase in Ring BEC coupled with ring cavity.
-Authors: Gunjan Yadav, Nilamoni Daloi, Pardeep Kumar, M. Bhattacharya, and Tarak Nath Dey
+
+Authors: 
+[Gunjan Yadav](mailto:y.gunjan@iitg.ac.in), 
+[Nilamoni Daloi](mailto:nilamoni123@gmail.com), 
+[Pardeep Kumar](mailto:pardeep.kumar@mpl.mpg.de), 
+[M. Bhattacharya](mailto:mb6154@gmail.com), 
+[Tarak Nath Dey](mailto:tarak.dey@iitg.ac.in)
+
 Research Article: Supersolid Rotation in an Annular Bose-Einstein Condensate coupled to a Ring Cavity, Gunjan Yadav, Nilamoni Daloi, Pardeep Kumar, M. Bhattacharya, and Tarak Nath Dey, arXiv:2604.16573.
 
 This repository provides the complete numerical datasets and Python plotting codes used to generate all the figures presented in the above work. The primary aim is to ensure full reproducibility of the results and to make the data accessible for verification and further research.
