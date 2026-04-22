@@ -9,7 +9,10 @@ Authors:
 [M. Bhattacharya](mailto:mb6154@gmail.com), 
 [Tarak Nath Dey](mailto:tarak.dey@iitg.ac.in)
 
-Research Article: Supersolid Rotation in an Annular Bose-Einstein Condensate coupled to a Ring Cavity, Gunjan Yadav, Nilamoni Daloi, Pardeep Kumar, M. Bhattacharya, and Tarak Nath Dey, arXiv:2604.16573.
+## Research Article
+
+**[Supersolid Rotation in an Annular Bose-Einstein Condensate coupled to a Ring Cavity](https://arxiv.org/abs/2604.16573)**  
+Gunjan Yadav, Nilamoni Daloi, Pardeep Kumar, M. Bhattacharya, and Tarak Nath Dey
 
 This repository provides the complete numerical datasets and Python plotting codes used to generate all the figures presented in the above work. The primary aim is to ensure full reproducibility of the results and to make the data accessible for verification and further research.
 
