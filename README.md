@@ -14,6 +14,8 @@ Authors:
 **[Supersolid Rotation in an Annular Bose-Einstein Condensate coupled to a Ring Cavity](https://arxiv.org/abs/2604.16573)**  
 Gunjan Yadav, Nilamoni Daloi, Pardeep Kumar, M. Bhattacharya, and Tarak Nath Dey
 
+## 📊 Repository Description
+
 This repository provides the complete numerical datasets and Python plotting codes used to generate all the figures presented in the above work. The primary aim is to ensure full reproducibility of the results and to make the data accessible for verification and further research.
 
 All data are stored in NumPy `.npz` format and are organized figure-wise. For each figure, the corresponding datasets are saved separately (in some cases split into multiple parts), along with dedicated plotting scripts.
